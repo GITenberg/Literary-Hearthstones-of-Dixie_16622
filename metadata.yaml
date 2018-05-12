@@ -1,0 +1,41 @@
+_repo: Literary-Hearthstones-of-Dixie_16622
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pickett, La Salle Corbell
+    aliases:
+    - Pickett, LaSalle Corbell
+    - Pickett, George E. Mrs. General
+    - Pickett, G. E. Mrs. (George E.)
+    birthdate: 1848
+    deathdate: 1931
+    gutenberg_agent_id: '6828'
+    url: http://www.gutenberg.org/2009/agents/6828
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2005-08-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16622'
+  lccn: '12024429'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, American -- Homes and haunts -- Southern States'
+- !lcc 'PS'
+- !lcsh 'American literature -- Southern States -- History and criticism'
+- !lcsh 'Southern States -- In literature'
+- !lcsh 'Southern States -- Intellectual life'
+tableOfContents: '"The poet of the night", Edgar Allan Poe -- "The sunrise poet",
+  Sidney Lanier -- "The poet of the pines", Paul Hamilton Hayne -- "The flame-born
+  poet", Henry Timrod -- "Father Abbot", William Gilmore Simms -- "Uncle Remus", Joel
+  Chandler Harris -- "The poet of the flag", Francis Scott Key -- "The poet-priest",
+  Father Ryan -- "Bacon and greens", Dr. George William Bagby -- "Woman and poet",
+  Margaret Junkin Preston -- "The ''mother'' of ''St. Elmo''", August Evans Wilson.'
+title: Literary Hearthstones of Dixie
+url: http://www.gutenberg.org/ebooks/16622
